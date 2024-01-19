@@ -1,4 +1,4 @@
-#hellooo
+# hellooo
 
 TL;DR: senior at UCLA (Statistics and Data Science/Political Science), Keck Research Fellow, member of ACM Studio, independent game developer, cool guy working on cool things
 
