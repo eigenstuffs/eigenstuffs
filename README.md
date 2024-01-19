@@ -2,7 +2,7 @@
 
 Cool guy interested in computational social science and game development
 
-UCLA '24, Statistics and Data Science/Political Science
+UCLA '24, Statistics and Data Science/Political Science, Keck Research Fellow/Departmental Honors
 
 Current cool things:
 
