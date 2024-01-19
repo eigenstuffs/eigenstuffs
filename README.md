@@ -23,4 +23,4 @@ My technical skills:
 - GDScript (advanced)
 - Excel (intermediate)
 - SQL (intermediate)
-- C++ (intermediate)
+- C++ (beginner)
