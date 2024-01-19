@@ -14,7 +14,7 @@ WIP:
 
 - Research project in political economy of trade; in-progress
 - Research project in political economy of development; NDA moment
-- I'll be working as a financial data analyst for a public healthcare agency this summer
+- I'll be working as a financial data analyst for a public healthcare provider this summer
 
 My technical skills:
 
