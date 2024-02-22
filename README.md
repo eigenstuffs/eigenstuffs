@@ -1,4 +1,4 @@
-# hellooo ✨
+# hello ✨
 
 Current cool things:
 
